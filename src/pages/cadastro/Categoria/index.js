@@ -22,8 +22,7 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    console.log('hello world!');
-    const URL_TOP = 'https://devricardoflix.herokuapp.com/categorias';
+    const URL_TOP = window.location.href.includes('localhost') ? 'http://localhost:8080/categorias' : 'https://devricardoflix.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (response) => {
         const resposta = await response.json();
