@@ -37,7 +37,6 @@ function CadastroCategoria() {
     const nameAttribute = infosDoEvento.target.getAttribute('name');
     setValue(nameAttribute,
       newValue);
-    // setNomeDaCategoria(newText);
   }
 
   return (
