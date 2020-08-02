@@ -30,7 +30,7 @@ function CadastroCategoria() {
           ...resposta,
         ]);
       });
-  });
+  },[]);
 
   function handleChange(infosDoEvento) {
     const newValue = infosDoEvento.target.value;
