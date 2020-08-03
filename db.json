@@ -40,11 +40,6 @@
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       }
-    },
-    {
-      "id": 6,
-      "titulo": "Inteligência Artificial",
-      "cor": "orange"
     }
   ],
   "videos": [
@@ -264,5 +259,29 @@
       },
       "id": 33
     },
+    {
+      "titulo": "teste",
+      "url": "https://www.youtube.com/watch?v=1n-1LppsBrQ",
+      "categoriaId": 1,
+      "id": 34
+    },
+    {
+      "titulo": "A ilha do tesouro",
+      "url": "https://www.youtube.com/watch?v=r9wbtf2vaSs",
+      "categoriaId": 2,
+      "id": 35
+    },
+    {
+      "titulo": "Top Gun 2",
+      "url": "https://www.youtube.com/watch?v=39Ecx5JnDNU",
+      "categoriaId": 4,
+      "id": 36
+    },
+    {
+      "titulo": "Minions 2",
+      "url": "https://www.youtube.com/watch?v=RbENk4FP0C8",
+      "categoriaId": 4,
+      "id": 37
+    }
   ]
 }
