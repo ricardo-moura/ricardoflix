@@ -1,3 +1,10 @@
+# Introduction
+Project created applying the knowledge of Alura's React immersion week.
+
+## Project Demo
+- https://ricardoflix.vercel.app
+
+## Other information
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
